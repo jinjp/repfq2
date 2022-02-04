@@ -39,7 +39,8 @@ cat << EOF > /usr/local/etc/v2ray/config.json
         }                   
     ]                       
 }  
-EOF                         
+EOF
+                      
 echo debug06
 
 # Run V2Ray                  
