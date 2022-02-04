@@ -20,8 +20,8 @@ cat << EOF > /usr/local/etc/v2ray/config.json
         "protocol": "vmess",
         "settings": {
             "clients": [{
-                "id": "${ID}",
-                "alterId": 0
+                "id": "${UUID}",
+                "alterId": 64
             }],          
               "disableInsecureEncryption": true
         },
