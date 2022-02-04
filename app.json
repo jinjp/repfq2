@@ -3,14 +3,10 @@
     "description": "repfq2 on Heroku.",
     "keywords": ["repfq2"],
     "env": {
-        "ID": {
+        "UUID": {
             "description": "UUID",
             "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
-        },
-        "WSPATH": {
-            "description": "WebSocket Path",
-            "value": "/"
-        }
+        }    
     },
     "website": "https://github.com/jinjp/repfq2/",
     "repository": "https://github.com/jinjp/repfq2",
